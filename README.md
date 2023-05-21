@@ -1,2 +1,1 @@
-bopeebo - mix-up
-fresh - ultra instinct
+bopeebo - mix-up                                                                                                                                                                                                           fresh - ultra instinct
