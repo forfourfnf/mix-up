@@ -1,7 +1,9 @@
-https://forfourfnf.github.io/shag-official/
+Friday Night Funkin': The Shaggy Mod Extras
 
-bopeebo - mix-up (Normal)
+https://forfourfnf.github.io/shag-bonus/
 
-fresh - ultra instinct (Hard)
+bopeebo - mix-up
 
-dadbattle - big shot (not started)
+fresh - ultra instinct
+
+dadbattle - big shot
