@@ -2,8 +2,12 @@ Friday Night Funkin': The Shaggy Mod Extras
 
 https://forfourfnf.github.io/shag-bonus/
 
-bopeebo - mix-up
+# Song list
 
-fresh - ultra instinct
+Where are you - Mix-up
 
-dadbattle - big shot
+Eruption - Ultra Instinct
+
+Super Sayian - The Super Sayian Mashup
+
+Astral Calamity - big shot
